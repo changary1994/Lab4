@@ -4,7 +4,7 @@
 
 [GitHub Link](https://github.com/changary1994/Lab4)
 
-This app was created using JavaScript, CSS, and HTML to create a dynamic web page. The API used was from the Pokemon Company, found [here](https://pokeapi.co/). The code was validated using https://validator.w3.org/nu/about.html for both CSS and HTML. The app fetches the data from the API and generates a new Pokemon every second, and takes the name data and sprite data from the API, and displays it to the web page.
+This app was created using JavaScript, CSS, and HTML to create a dynamic web page. The API used was from the Pokemon Company, found [here](https://pokeapi.co/). The code was validated using https://validator.w3.org/nu/about.html for both CSS and HTML. The app fetches the data from the API and generates a new Pokemon every second, and takes the name data and sprite data from the API, and displays it to the web page. The server that was used for automated deployment and testing was Heroku and Heroku CI. Heroku is the server that is currently hosting this web app.
 
 ## How to Run:
 
