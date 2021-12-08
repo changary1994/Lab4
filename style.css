@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.sprite {
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    font-size: 100px;
+    text-align: center;
+}
