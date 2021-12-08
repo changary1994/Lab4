@@ -2,7 +2,7 @@
 
 ## General Information:
 
-This app was created using JavaScript, CSS, and HTML to create a dynamic web page. The API used was from the Pokemon Company, found at https://pokeapi.co/. The code was validated using https://validator.w3.org/nu/about.html for both CSS and HTML. The app fetches the data from the API and generates a new Pokemon every second, and shows its name and sprite that was taken from the API. 
+This app was created using JavaScript, CSS, and HTML to create a dynamic web page. The API used was from the Pokemon Company, found at [here](https://pokeapi.co/). The code was validated using https://validator.w3.org/nu/about.html for both CSS and HTML. The app fetches the data from the API and generates a new Pokemon every second, and shows its name and sprite that was taken from the API. 
 
 ## How to Run:
 
