@@ -1,4 +1,4 @@
-https://wildpokemonencounter.herokuapp.com/
+**[Wild Pokemon Encounter](https://wildpokemonencounter.herokuapp.com/)**
 
 General Information:
 
